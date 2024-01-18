@@ -1,3 +1,3 @@
 <h1>Review aula Git e GitHub</h1>
 
-> Status do projeto: Em andamento.
+> Status do projeto: Finalizado.
